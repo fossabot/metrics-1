@@ -4,6 +4,7 @@ Metrics
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.dropwizard.metrics/metrics-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.dropwizard.metrics/metrics-core/)
 [![Javadoc](http://javadoc-badge.appspot.com/io.dropwizard.metrics/metrics-core.svg)](http://www.javadoc.io/doc/io.dropwizard.metrics/metrics-core)
 [![Code Climate](https://codeclimate.com/github/dropwizard/metrics/badges/gpa.svg)](https://codeclimate.com/github/dropwizard/metrics)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fe-gris%2Fmetrics.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fe-gris%2Fmetrics?ref=badge_shield)
 
 *Capturing JVM- and application-level metrics. So you know what's going on.*
 
@@ -43,3 +44,7 @@ License
 Copyright (c) 2010-2013 Coda Hale, Yammer.com, 2014-2018 Dropwizard Team
 
 Published under Apache Software License 2.0, see LICENSE
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fe-gris%2Fmetrics.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fe-gris%2Fmetrics?ref=badge_large)
